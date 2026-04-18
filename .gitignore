@@ -1,0 +1,11 @@
+# Ignore large raw datasets
+data/raw/
+
+# Allow sample and cleaned data
+!data/raw_sample/
+!data/cleaned/
+
+*.pbix
+.env
+__pycache__/
+.ipynb_checkpoints/
