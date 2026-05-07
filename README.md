@@ -17,3 +17,21 @@ The final goal is to interpret the dashboard and provide strategic recommendatio
 - Generate actionable business insights  
 
 ---
+
+## 🧰 Tools & Technologies Used
+- Python (Pandas) – Data Cleaning  
+- SQL (MySQL) – Data Analysis  
+- Power BI – Visualization & Dashboard  
+- Git & GitHub – Version Control  
+
+---
+
+## 🧹 Data Preparation
+The dataset was cleaned and standardized using Python:
+- Handled missing values  
+- Removed duplicate records  
+- Standardized date and time formats  
+- Corrected data types (numeric, date, time)  
+- Prepared structured dataset for analysis  
+
+---
