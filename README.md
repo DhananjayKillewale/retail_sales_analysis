@@ -66,4 +66,20 @@ A Power BI dashboard was created to visualize:
 
 ---
 
+## 💡 Business Recommendations
+- 🛍️ Focus on top-performing products for marketing and stock  
+- 🌆 Target high-revenue cities with campaigns  
+- 💳 Promote digital payments with offers  
+- 📦 Optimize inventory based on demand patterns  
+- ⏱️ Schedule promotions during peak hours  
+
+---
+
+## 📂 Project Structure
+- `retail_project.ipynb` → Data cleaning and preprocessing  
+- `cleaned_retail_data.csv` → Final dataset  
+- `dashboard.png` → Dashboard screenshots  
+- `README.md` → Documentation  
+
+---
 
