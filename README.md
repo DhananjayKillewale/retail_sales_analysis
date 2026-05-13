@@ -57,9 +57,20 @@ A Power BI dashboard was created to visualize:
 
 ---
 
+## 📷 Dashboard Preview
+
+### Sales Overview
+
+![Sales Overview](dashboard.png)
+
+### Sales Analysis
+
+![Sales Analysis](Insights.png)
+
 ## 🔍 Key Insights
-- 📈 Certain products generate higher sales volume  
-- 🏙️ Major cities contribute significantly to total revenue  
+- 📈 Certain products like watches generate higher sales volume  
+- 🏙️ Hyderabad contribute significantly to total revenue
+- 📈 Strong performance in southern cities
 - 💳 Digital payments (UPI, cards) are more widely used than cash  
 - 📅 Sales trends vary across dates and time  
 - ⏰ Peak sales occur during specific hours  
@@ -71,15 +82,16 @@ A Power BI dashboard was created to visualize:
 - 🌆 Target high-revenue cities with campaigns  
 - 💳 Promote digital payments with offers  
 - 📦 Optimize inventory based on demand patterns  
-- ⏱️ Schedule promotions during peak hours  
+- ⏱️ Schedule promotions during peak hours
+- 📈 Opportunity to improve sales in Mumbai and northern regions
 
 ---
 
-## 📂 Project Structure
-- `retail_project.ipynb` → Data cleaning and preprocessing  
-- `cleaned_retail_data.csv` → Final dataset  
-- `dashboard.png` → Dashboard screenshots  
-- `README.md` → Documentation  
+## ✅ Conclusion
+
+This project demonstrates an end-to-end data analysis workflow, transforming raw retail data into meaningful insights using Python, SQL, and Power BI.
+
+The analysis highlights that sales performance is driven by a combination of product demand, regional contribution, and customer purchasing behavior. Categories such as Electronics and Fashion play a major role in revenue generation, while cities like Hyderabad and Pune emerge as key markets. Additionally, the preference for digital payment methods and peak sales during specific hours reflect evolving customer trends.
 
 ---
 
